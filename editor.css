@@ -1,0 +1,11 @@
+.slider-preview {
+    border: 1px dashed #ccc;
+    padding: 10px;
+    background: #f9f9f9;
+    text-align: center;
+}
+
+.slider-preview img {
+    max-width: 100px;
+    margin: 5px;
+}
